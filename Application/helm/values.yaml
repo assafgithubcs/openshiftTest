@@ -2,7 +2,7 @@ ReplicaNumber: 3
 
 containers:
   containerPort: 8080
-  image: 'quay.io/assafcs/helloworldgit commit -m "edited the HELM values.yaml file":v2'
+  image: 'quay.io/<quay-userName>/<imageName>:v2'
   tag: 'base'
 
 service:
